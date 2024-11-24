@@ -10,7 +10,7 @@ public class Questions {
         this.title = title;
         this.correctAnswerIndex = correctAnswerIndex;
         this.points = points;
+//Harry - 10 vordefinierte Fragen einbauen
 
-    }
-
+}
 }

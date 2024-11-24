@@ -8,5 +8,12 @@ public class Quiz {
     public Quiz (String titleQuiz, String [] questions) {
         this.titleQuiz = titleQuiz;
         this.questions = questions;
+
+        // Harry
+
+
+        //Win/Lose
+
+        //Name + Punkte Ausgeben
     }
 }
