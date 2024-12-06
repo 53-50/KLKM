@@ -1,9 +1,13 @@
+import BasisKlassen.Quiz;
+
+import java.util.ArrayList;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("Hello and welcome!");
-//Harry
 
+        Quiz q = new Quiz(new ArrayList<>());
+        q.menue(new Scanner(System.in));
 
         /*
 
