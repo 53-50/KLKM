@@ -2,7 +2,7 @@ package BasisKlassen;
 
 public class Player {
     private String name;
-    int score;
+    private int score;
 
     public Player(String name) {
         this.name = name;
